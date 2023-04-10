@@ -56,7 +56,7 @@ The login page looks like in the below figure
 
 ![image](https://user-images.githubusercontent.com/103095458/230973634-a8a3fd89-2df6-4102-b587-6ecda1787c55.png)
 
-5. CSS File Create
+5. Create CSS File 
 
 Finally, you should apply CSS (Cascading Style Sheets) to the HTML markup of your web pages to make them visually appealing and user-friendly. CSS allows you to style elements such as text, images, and buttons, and can be used to create a consistent look and feel across your entire site.
 
